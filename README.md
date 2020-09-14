@@ -4,5 +4,5 @@
 
 #### The whole procedure can be observed below:
 
-![image](MyFlix_Architecture.png)
+![image](ETL_Architecture.png)
 #
