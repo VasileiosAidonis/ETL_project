@@ -4,5 +4,5 @@
 
 #### The whole procedure can be observed below:
 
-![image](ETL_Architecture.png)
+![image](ETL_architecture.png)
 #
